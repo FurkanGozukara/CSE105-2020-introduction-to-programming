@@ -11,3 +11,16 @@ C:\CSE105-2020-introduction-to-programming\lectures\lecture 2\lecture 2\obj\Debu
 C:\CSE105-2020-introduction-to-programming\lectures\lecture 2\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.dll
 C:\CSE105-2020-introduction-to-programming\lectures\lecture 2\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.pdb
 C:\CSE105-2020-introduction-to-programming\lectures\lecture 2\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.genruntimeconfig.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\bin\Debug\netcoreapp3.1\lecture 2.exe
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\bin\Debug\netcoreapp3.1\lecture 2.deps.json
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\bin\Debug\netcoreapp3.1\lecture 2.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\bin\Debug\netcoreapp3.1\lecture 2.runtimeconfig.dev.json
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\bin\Debug\netcoreapp3.1\lecture 2.dll
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\bin\Debug\netcoreapp3.1\lecture 2.pdb
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.dll
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.pdb
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 2\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.genruntimeconfig.cache
