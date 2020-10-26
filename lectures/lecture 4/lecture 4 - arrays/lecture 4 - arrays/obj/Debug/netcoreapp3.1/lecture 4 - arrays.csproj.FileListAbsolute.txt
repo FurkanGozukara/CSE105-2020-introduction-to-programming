@@ -1,0 +1,13 @@
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\bin\Debug\netcoreapp3.1\lecture 4 - arrays.exe
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\bin\Debug\netcoreapp3.1\lecture 4 - arrays.deps.json
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\bin\Debug\netcoreapp3.1\lecture 4 - arrays.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\bin\Debug\netcoreapp3.1\lecture 4 - arrays.runtimeconfig.dev.json
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\bin\Debug\netcoreapp3.1\lecture 4 - arrays.dll
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\bin\Debug\netcoreapp3.1\lecture 4 - arrays.pdb
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\obj\Debug\netcoreapp3.1\lecture 4 - arrays.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\obj\Debug\netcoreapp3.1\lecture 4 - arrays.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\obj\Debug\netcoreapp3.1\lecture 4 - arrays.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\obj\Debug\netcoreapp3.1\lecture 4 - arrays.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\obj\Debug\netcoreapp3.1\lecture 4 - arrays.dll
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\obj\Debug\netcoreapp3.1\lecture 4 - arrays.pdb
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 4\lecture 4 - arrays\lecture 4 - arrays\obj\Debug\netcoreapp3.1\lecture 4 - arrays.genruntimeconfig.cache
