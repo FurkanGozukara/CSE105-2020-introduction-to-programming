@@ -1,4 +1,8 @@
+# CSE105-2020-introduction-to-programming
+
 Introduction to Programming CSE105 - 2020 - Toros University
+
+Discord Channel of the Course for every kind of questions and answers : https://discord.gg/6Mrb8MwteQ
 
 This repository is dedicated to the Introduction to Programming With C# Course 2020 Toros University, Computer and Software Engineering Department
 
