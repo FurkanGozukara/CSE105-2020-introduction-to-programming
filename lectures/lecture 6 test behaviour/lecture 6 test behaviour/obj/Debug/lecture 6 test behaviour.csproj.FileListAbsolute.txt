@@ -1,0 +1,15 @@
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\bin\Debug\lecture 6 test behaviour.exe.config
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\bin\Debug\lecture 6 test behaviour.exe
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\bin\Debug\lecture 6 test behaviour.pdb
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\obj\Debug\lecture 6 test behaviour.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\obj\Debug\MainWindow.g.cs
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\obj\Debug\App.g.cs
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\obj\Debug\lecture 6 test behaviour_MarkupCompile.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\obj\Debug\lecture 6 test behaviour_MarkupCompile.lref
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\obj\Debug\MainWindow.baml
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\obj\Debug\lecture 6 test behaviour.g.resources
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\obj\Debug\lecture_6_test_behaviour.Properties.Resources.resources
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\obj\Debug\lecture 6 test behaviour.csproj.GenerateResource.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\obj\Debug\lecture 6 test behaviour.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\obj\Debug\lecture 6 test behaviour.exe
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 6 test behaviour\lecture 6 test behaviour\obj\Debug\lecture 6 test behaviour.pdb

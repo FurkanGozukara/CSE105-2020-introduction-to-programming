@@ -1,0 +1,22 @@
+﻿<Window x:Class="lecture_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lecture_6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnForLoop" Content="For Loop Example" HorizontalAlignment="Left" Margin="42,37,0,0" VerticalAlignment="Top" Height="76" Width="212" FontFamily="Times New Roman" FontSize="18" Click="btnForLoop_Click"/>
+
+        <Button Name="btnForEachExample" Content="foreach loop" FontSize="20" HorizontalAlignment="Left" Margin="317,37,0,0" VerticalAlignment="Top" Height="76" Width="184" Click="btnForEachExample_Click"/>
+
+        <Button Name="btnWhileExample" Content="while loop" FontSize="20" HorizontalAlignment="Left" Margin="540,37,0,0" VerticalAlignment="Top" Height="76" Width="184" Click="btnWhileExample_Click"  />
+        <Button x:Name="btnDoWhileLoop" Content="do while loop" FontSize="20" HorizontalAlignment="Left" Margin="42,141,0,0" VerticalAlignment="Top" Height="76" Width="184" Click="btnDoWhileLoop_Click"  />
+        <Button x:Name="btnThreadsleepExample" Content="thread sleep example" FontSize="20" HorizontalAlignment="Left" Margin="317,141,0,0" VerticalAlignment="Top" Height="76" Width="243" Click="btnThreadsleepExample_Click"    />
+        <Label Name="_labelCounter" Content="counter" HorizontalAlignment="Left" Margin="317,328,0,0" VerticalAlignment="Top" Height="76" Width="443" FontFamily="Trebuchet MS" FontSize="18" Foreground="#FFEE7951" Background="#FF433FD4"/>
+        <TextBox Name="txtSleepMs" HorizontalAlignment="Left" Margin="318,266,0,0" Text="sleep ms by default 500 ms" TextWrapping="Wrap" VerticalAlignment="Top" Width="419" FontSize="20" Height="38"/>
+        <Button Name="btnSimpleUpdateUserInterface" Content="simple update user interface" HorizontalAlignment="Left" Margin="42,265,0,0" VerticalAlignment="Top" Height="85" Width="184" Click="btnSimpleUpdateUserInterface_Click"/>
+
+    </Grid>
+</Window>
