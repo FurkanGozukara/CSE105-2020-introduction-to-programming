@@ -1,0 +1,1180 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="keywords" content="toros,universitesi,universite,mersin,university" />
+<meta name="description" content="Toros Üniversitesi" />
+<meta name="author" content="Tamer KARALÜRT" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="csrf-token" content="PndolKB8PkNfMneHQxS8KIgIe1wDNhnmnCMGBQkE">
+<title>Toros Üniversitesi</title>
+
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+<link rel="apple-touch-icon" sizes="57x57" href="/toros/images/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/toros/images/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/toros/images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/toros/images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/toros/images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/toros/images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/toros/images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/toros/images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/toros/images/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/toros/images/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/toros/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/toros/images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/toros/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/toros/images/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/toros/images/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<link href="/css/app.css?ver=0.0.6" rel="stylesheet" />
+
+<link rel="stylesheet" type="text/css" href="/toros/css/bootstrap.min.css" />
+
+<link rel="stylesheet" type="text/css" href="/toros/css/animate.css" />
+
+<link rel="stylesheet" type="text/css" href="/toros/css/owl.carousel.css" />
+
+<link rel="stylesheet" type="text/css" href="/toros/css/font-awesome.css" />
+
+<link rel="stylesheet" type="text/css" href="/toros/css/themify-icons.css" />
+
+<link rel="stylesheet" type="text/css" href="/toros/css/flaticon.css" />
+
+<link rel="stylesheet" type="text/css" href="/toros/revolution/css/layers.css" />
+<link rel="stylesheet" type="text/css" href="/toros/revolution/css/settings.css" />
+
+<link rel="stylesheet" type="text/css" href="/toros/css/prettyPhoto.css" />
+
+<link rel="stylesheet" type="text/css" href="/toros/css/shortcodes.css?ver=0.0.1" />
+
+<link rel="stylesheet" type="text/css" href="/toros/css/main.css?ver=0.0.1" />
+
+<link rel="stylesheet" type="text/css" href="/toros/css/responsive.css?ver=0.0.1" />
+
+<link rel="stylesheet" href="/css/panel/select2-bootstrap4.min.css" />
+<link rel="stylesheet" href="/css/panel/dataTables.bootstrap4.min.css" />
+<link rel="stylesheet" href="/css/panel/responsive.bootstrap4.min.css" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123593279-1" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script type="821c40f53e3875cf93f182c4-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-123593279-1');
+        gtag('config', 'AW-795426294');
+    </script>
+
+<script type="821c40f53e3875cf93f182c4-text/javascript">
+        function gtag_report_conversion(url) {
+            var callback = function () {
+                if (typeof (url) != 'undefined') {
+                    window.location = url;
+                }
+            };
+            gtag('event', 'conversion', {'send_to': 'AW-795426294/nXgVCPynu4YBEPb7pPsC', 'event_callback': callback});
+            return false;
+        }
+
+        function trackLink(url, event) {
+            event.preventDefault();
+            if (window.ga && ga.loaded) {
+                gtag_report_conversion(url);
+            } else {
+                document.location = url;
+            }
+        }
+
+    </script>
+<style>[wire\:loading] {display: none;}[wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}</style>
+</head>
+<body>
+<div id="app">
+<main class="page">
+
+<header id="masthead" class="header ttm-header-style-classic">
+
+<div class="ttm-topbar-wrapper ttm-bgcolor-darkgrey ttm-textcolor-white clearfix">
+<div class="container">
+<div class="ttm-topbar-content">
+<ul class="top-contact ttm-highlight-left text-left">
+<li><i class="fa fa-arrow-circle-right"></i><strong>Eğitimin Ötesinde, Yaşamın İçinde | Toros
+Üniversitesi</strong></li>
+</ul>
+<div class="topbar-right text-right">
+<ul class="top-contact">
+<li><i class="fa fa-envelope-o"></i><a href="/cdn-cgi/l/email-protection#30595e565f70445f425f431e5554451e4442"><span class="__cf_email__" data-cfemail="c8a1a6aea788bca7baa7bbe6adacbde6bcba">[email&#160;protected]</span></a>
+</li>
+<li><i class="fa fa-phone"></i><a href="tel:0(324)3253300">+90 (324) 325 33 00</a></li>
+</ul>
+<a class="btn btn-facebook btn-sm rounded-circle p-1" data-toggle="tooltip" data-placement="bottom" title="Facebook" target="_blank" href="https://www.facebook.com/TorosUniversity">
+<i class="fa fa-facebook fa-fw" aria-hidden="true"></i>
+</a>
+<a class="btn btn-instagram btn-sm rounded-circle p-1" data-tooltip="Instagram" target="_blank" href="https://www.instagram.com/torosuniv2009">
+<i class="fa fa-instagram fa-fw" aria-hidden="true"></i>
+</a>
+<a class="btn btn-youtube btn-sm rounded-circle p-1" data-tooltip="Youtube" target="_blank" href="https://www.youtube.com/channel/UCjbGEjnE-zoWaKJjPKF0Kqw">
+<i class="fa fa-youtube fa-fw" aria-hidden="true"></i>
+</a>
+<a class="btn btn-wikipedia btn-sm rounded-circle p-1" data-tooltip="Vikipedi" target="_blank" href="https://tr.wikipedia.org/wiki/Toros_Üniversitesi">
+<img src="/toros/images/icons/wikipedia.svg" alt="toros-wikipedia" style="height: 14px;">
+</a>
+<a class="btn btn-wikipedia btn-sm rounded-circle p-1" data-tooltip="Wikipedia" target="_blank" href="https://en.wikipedia.org/wiki/Toros_University">
+<i class="fa fa-wikipedia-w fa-fw" aria-hidden="true"></i>
+</a>
+<a class="btn btn-linkedin btn-sm rounded-circle p-1" data-tooltip="LinkedIn" target="_blank" href="https://www.linkedin.com/school/toros-universitesi">
+<i class="fa fa-linkedin fa-fw" aria-hidden="true"></i>
+</a>
+<a class="btn btn-twitter btn-sm rounded-circle p-1" data-tooltip="Twitter" target="_blank" href="https://twitter.com/torosuniversity">
+<i class="fa fa-twitter fa-fw" aria-hidden="true"></i>
+</a>
+<a class="btn btn-whatsapp btn-sm rounded-circle p-1" data-tooltip="Whatsapp" target="_blank" href="http://wa.me/905331906800">
+<i class="fa fa-whatsapp fa-fw" aria-hidden="true"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="ttm-header-wrap">
+
+<div id="ttm-stickable-header-w" class="ttm-stickable-header-w clearfix">
+<div id="site-header-menu" class="site-header-menu">
+<div class="site-header-menu-inner ttm-stickable-header">
+<div class="container-fluid pr-60 pl-30">
+
+<div class="site-branding">
+<a class="home-link" href="http://www.toros.edu.tr" title="Toros Üniversitesi | Mersin" rel="home">
+<img id="logo-img" class="img-center" src="/toros/images/toros-universitesi-logo.png" alt="Toros Üniversitesi | Mersin">
+</a>
+</div>
+
+<div id="site-navigation" class="site-navigation">
+<div class="ttm-rt-contact">
+
+<div class="ttm-header-icons ">
+<div class="ttm-header-icon ttm-header-search-link">
+<a href="#"><i class="ti ti-search"></i></a>
+<div class="ttm-search-overlay">
+<form class="ttm-site-searchform search-form" action="https://google.com/search" method="GET" target="_blank">
+<div class="w-search-form-h">
+<div class="w-search-form-row">
+<div class="w-search-input">
+<input type="search" class="field searchform-s" name="q" placeholder="Ne Aramıştınız?">
+<button type="submit">
+<i class="ti ti-search"></i>
+</button>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="ttm-menu-toggle">
+<input type="checkbox" id="menu-toggle-form" />
+<label for="menu-toggle-form" class="ttm-menu-toggle-block">
+<span class="toggle-block toggle-blocks-1"></span>
+<span class="toggle-block toggle-blocks-2"></span>
+<span class="toggle-block toggle-blocks-3"></span>
+</label>
+</div>
+<nav id="menu" class="menu d-xl-flex align-items-center">
+<ul class="dropdown text-center">
+<li>
+<a href="http://www.toros.edu.tr/toros-hakkinda">Toros Hakkında</a>
+<ul>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-kurucu-vakif">Kurucu Vakıf</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-mutevelli-heyeti">Mütevelli Heyeti</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/rektorluk">Rektörlük</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-rektor">Yönetim</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-misyon-vizyon-ve-temel-degerler">Misyon, Vizyon ve Temel Değerler</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-toros-okullari-ve-toros-toplulugu">Toros Okulları ve Topluluğu</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/kalite-koordinatorlugu">Kalite Koordinatörlüğü</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-kisisel-verilerin-korunmasi">Kişisel Verilerin Korunması</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/akademik">Akademik</a>
+<ul>
+<li>
+<a href="http://www.toros.edu.tr/fakulteler">Fakülteler</a>
+<ul>
+<li><a href="http://www.toros.edu.tr/fakulteler/guzel-sanatlar-fakultesi">Güzel Sanatlar Tasarım ve Mimarlık Fakültesi</a></li>
+<li><a href="http://www.toros.edu.tr/fakulteler/iktisadi-idari-ve-sosyal-bilimler-fakultesi">İktisadi, İdari ve Sosyal Bilimler Fakültesi</a></li>
+<li><a href="http://www.toros.edu.tr/fakulteler/muhendislik-fakultesi">Mühendislik Fakültesi</a></li>
+<li><a href="http://www.toros.edu.tr/fakulteler/saglik-bilimleri-fakultesi">Sağlık Bilimleri Fakültesi</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/yuksek-okullari">Yüksekokullar</a>
+<ul>
+<li><a href="http://www.toros.edu.tr/yuksek-okullari/meslek-yuksekokulu">Meslek Yüksekokulu</a></li>
+<li><a href="http://www.toros.edu.tr/yuksek-okullari/yabanci-diller-yuksekokulu">Yabancı Diller Yüksekokulu</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/enstituler">Enstitüler</a>
+<ul>
+<li><a href="http://www.toros.edu.tr/enstituler/lisansustu-egitim-enstitusu">Lisansüstü Eğitim Enstitüsü</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/arastirma-merkezleri" style="text-transform: initial;">Uygulama ve Araştırma Merkezleri</a>
+<ul>
+<li><a href="http://www.toros.edu.tr/icerik/alevilik-bektasilik-uygulama-ve-arastirma-merkezi">Alevilik - Bektaşilik Uygulama ve Araştırma Merkezi</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/kentlesme-ve-yerel-yonetimler-uygulama-ve-arastima-merkezi">Kentleşme ve Yerel Yönetimler Uygulama ve Araştırma Merkezi</a></li>
+<li><a href="http://torsem.toros.edu.tr">Sürekli Eğitim Uygulama ve Araştırma Merkezi</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/yenilenebilir-enerji-teknolojileri-egitimi-uygulama-ve-arastirma-merkezi">Yenilenebilir Enerji Teknolojileri Eğitimi Uygulama ve Araştırma Merkezi</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/uzaktan-egitim-uygulama-ve-arastirma-merkezi">Uzaktan Eğitim Uygulama ve Araştırma Merkezi</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/torkarmer">Kariyer Geliştirme Uygulama ve Araştırma Merkezi</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/tudam">Dil Araştırmaları Uygulama ve Araştırma Merkezi (TÜDAM)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/idari-birimler">İdari Birimler</a>
+<ul>
+<li><a href="http://www.toros.edu.tr/icerik/genel-sekreterlik">Genel Sekreterlik</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/bilgi-islem-daire-baskanligi">Bilgi İşlem Daire Başkanlığı</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/idari-ve-mali-isler-daire-baskanligi" style="text-transform: initial;">İdari ve Mali İşler Daire Başkanlığı</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/insan-kaynaklari-daire-baskanligi">İnsan Kaynakları Daire Başkanlığı</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/kutuphane-ve-dokumantasyon-daire-baskanligi" style="text-transform: initial;">Kütüphane ve Dokümantasyon Daire Başkanlığı</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-isleri-daire-baskanligi">Öğrenci İşleri Daire Başkanlığı</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/saglik-kultur-ve-spor-daire-baskanligi" style="text-transform: initial;">Sağlık Kültür ve Spor Daire Başkanlığı</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/yapi-isleri-ve-teknik-daire-baskanligi" style="text-transform: initial;">Yapı İşleri ve Teknik Daire Başkanlığı</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/kurumsal-iletisim-ve-tanitim-mudurlugu" style="text-transform: initial;">Kurumsal İletişim ve Tanıtım Müdürlüğü</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/bilimsel-arastirma-projeleri-ve-bilimsel-faaliyetleri-destekleme-koordinasyon-birimi">Bilimsel Araştırma Projeleri (BAP) ve Bilimsel Faaliyetleri Destekleme Koordinasyon Birimi</a></li>
+</ul>
+</li>
+<li><a href="http://www.toros.edu.tr/ogrenci">Öğrenci</a>
+<ul>
+<li><a href="http://www.toros.edu.tr/icerik/cap-yandal-programlari">Çift Ana Dal (Çap) - Yan Çap</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-ucretler">Ücretler</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-lisans-on-lisans-akademik-takvim">Lisans - Ön Lisans Akademik Takvim</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-hazirlik-okulu-akademik-takvim">Hazırlık Okulu Akademik Takvim</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-lisansustu-akademik-takvim">Lisansüstü Akademik Takvim</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-yonergeler-ve-esaslar">Yönergeler ve Esaslar</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-yonetmelikler">Yönetmelikler</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-topluluklari">Öğrenci Toplulukları</a></li>
+<li><a href="https://bologna.toros.edu.tr">Bologna Bilgi Paketi</a></li>
+<li><a href="http://www.toros.edu.tr/ogrenci/676-khk-ogrenciler">676 KHK Öğrenciler</a></li>
+<li><a href="https://mbs.toros.edu.tr">Mezun Bilgi Sistemi</a></li>
+</ul>
+</li>
+<li><a href="https://international.toros.edu.tr">International Students</a></li>
+<li><a href="http://www.toros.edu.tr/arastirma">Araştırma</a>
+<ul>
+<li><a href="http://www.toros.edu.tr/icerik/bilimsel-arastirma-projeleri-bap-bilimsel-arastirma-projeleri">Bilimsel Araştırma Projeleri (BAP)</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/lisans-ogrencileri-bilimsel-arastirma-destegi-torland">Lisans Öğrencileri Bilimsel Araştırma Desteği (TORLAD)</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toplumsal-katki-projeleri">Toplumsal Katkı Projeleri</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/bilimsel-faliyetleri-tesvik-bedek">Bilimsel Faaliyetleri Teşvik (BEDEK)</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/bilimsel-arastirmalar-ve-yayin-etigi-kurulu">Bilimsel Araştırma ve Yayın Etiği Kurulu</a></li>
+<li><a href="https://www.toros.edu.tr/abis">Akademik Bilgi Sistemi (ABİS)</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/merkez-ve-laboratuarlar">Merkezler ve Laboratuarlar</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/proje-duyurulari">Proje Duyuruları</a></li>
+</ul>
+</li>
+<li><a href="http://www.toros.edu.tr/iletisim">İletişim</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</header>
+
+<div id="rev_slider_4_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container slide-overlay" data-alias="classic4export" data-source="gallery">
+
+<div id="rev_slider_4_1" class="rev_slider fullwidthabanner rev_slider_4_1_height" data-version="5.4.8.1">
+<ul>
+<li data-index="rs-19" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="/toros/images/slides/slider-mainbg-004.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+
+<img src="/toros/images/slides/slider-mainbg-004.jpg" alt="" title="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+
+
+<div class="tp-caption tp-shape tp-shapewrapper tp-resizeme ttm-bgcolor-skincolor" id="slide-4-layer-1" data-x="['left','left','left','left']" data-hoffset="['50','50','-94','-94']" data-y="['top','top','top','top']" data-voffset="['189','189','184','184']" data-width="10" data-height="173" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":210,"speed":500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+</div>
+
+<div class="tp-caption tp-resizeme ttm-textcolor-skincolor" id="slide-4-layer-2" data-x="['left','left','center','center']" data-hoffset="['90','90','-628','-684']" data-y="['top','top','middle','middle']" data-voffset="['197','197','-116','46']" data-fontsize="['15','15','12','11']" data-lineheight="['15','15','14','14']" data-fontweight="['600','600','700','700']" data-width="none" data-height="none" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":500,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+TOROS ÜNİVERSİTESİ
+</div>
+
+<div class="tp-caption tp-resizeme" id="slide-4-layer-3" data-x="['left','left','center','center']" data-hoffset="['90','90','0','0']" data-y="['top','top','middle','middle']" data-voffset="['222','222','-112','-90']" data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']" data-fontweight="['700','700','700','700']" data-color="['rgb(5, 6, 43)','rgb(5, 6, 43)','rgb(5, 6, 43)','rgb(5, 6, 43)']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":440,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+Aramıza
+</div>
+
+<div class="tp-caption tp-resizeme" id="slide-4-layer-4" data-x="['left','left','center','center']" data-hoffset="['90','90','0','0']" data-y="['top','top','middle','middle']" data-voffset="['294','294','-51','-41']" data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']" data-fontweight="['700','700','700','700']" data-color="['rgb(5, 6, 43)','rgb(5, 6, 43)','rgb(5, 6, 43)','rgb(5, 6, 43)']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":620,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+Hoş Geldiniz
+</div>
+
+<div class="tp-caption tp-resizeme" id="slide-4-layer-5" data-x="['left','left','center','center']" data-hoffset="['50','50','-702','-702']" data-y="['top','top','middle','middle']" data-voffset="['387','387','247','247']" data-fontsize="['17','17','14','14']" data-lineheight="['26','26','24','24']" data-fontweight="['400','400','400','400']" data-color="['rgb(46,50,54)','rgb(46,50,54)','rgb(222,222,222)','rgb(222,222,222)']" data-width="['500','500','500','400']" data-height="none" data-whitespace="normal" data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":960,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+Üniversitemizi Arayarak Sorularınıza Cevap Bulabilirsiniz. Hemen İletişime Geçin.
+</div>
+
+<a class="tp-caption tp-resizeme black-flatborder-button" href="http://www.toros.edu.tr/iletisim" target="_self" id="slide-4-layer-6" data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['479','479','36','32']" data-fontsize="['13','13','12','11']" data-lineheight="['13','13','12','11']" data-fontweight="['700','700','700','700']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-actions='' data-responsive_offset="on" data-frames='[{"delay":1090,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[15,15,14,12]" data-paddingright="[35,35,30,25]" data-paddingbottom="[15,15,14,12]" data-paddingleft="[35,35,30,25]">İLETİŞİM</a>
+
+<a class="tp-caption tp-resizeme ttm-video-play-btn ttm_prettyphoto" href="https://www.youtube.com/watch?v=04Ngy5AziqE" target="_self" id="slide-4-layer-7" data-x="['left','left','center','center']" data-hoffset="['200','200','0','0']" data-y="['top','top','middle','middle']" data-voffset="['479','479','106','89']" data-fontsize="['14','14','14','12']" data-lineheight="['50','50','50','40']" data-color="['255','255','255','255']" data-width="['50','50','50','40']" data-height="['50','50','50','40']" data-whitespace="nowrap" data-type="text" data-actions='' data-responsive_offset="on" data-frames='[{"delay":1190,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+<div class="ttm-popup-video"><i class="fa fa-play"></i></div>
+</a>
+
+<a class="tp-caption tp-resizeme dark-text-button" href="http://www.toros.edu.tr/icerik/toros-hakkinda-kurucu-vakif" target="_self" id="slide-4-layer-8" data-x="['left','left','center','center']" data-hoffset="['262','262','-450','-450']" data-y="['top','top','middle','middle']" data-voffset="['495','495','160','160']" data-fontsize="['13','13','14','14']" data-lineheight="['13','13','12','11']" data-fontweight="['700','700','700','700']" data-width="none" data-height="none" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="text" data-actions='' data-responsive_offset="on" data-frames='[{"delay":1300,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">TOROS
+HAKKINDA</a>
+</li>
+<li data-index="rs-20" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="/toros/images/slides/slider-mainbg-003.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+
+<img src="/toros/images/slides/slider-mainbg-003.jpg" alt="" title="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+
+
+<div class="tp-caption tp-shape tp-shapewrapper tp-resizeme ttm-bgcolor-skincolor" id="slide-5-layer-1" data-x="['center','center','left','left']" data-hoffset="['50','50','50','50']" data-y="['top','top','top','top']" data-voffset="['189','189','184','184']" data-width="10" data-height="173" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":210,"speed":500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+</div>
+
+<div class="tp-caption tp-resizeme ttm-textcolor-skincolor" id="slide-5-layer-2" data-x="['center','center','center','center']" data-hoffset="['150','150','150','150']" data-y="['top','top','top','top']" data-voffset="['200','200','150','150']" data-fontsize="['15','15','12','11']" data-lineheight="['15','15','14','14']" data-fontweight="['600','600','700','700']" data-width="none" data-height="none" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":500,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+TOROS ÜNİVERSİTESİ
+</div>
+
+<div class="tp-caption tp-resizeme" id="slide-5-layer-3" data-x="['left','left','left','left']" data-hoffset="['700','700','700','700']" data-y="['top','top','top','top']" data-voffset="['210','210','210','210']" data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']" data-fontweight="['700','700','700','700']" data-color="['rgb(5, 6, 43)','rgb(5, 6, 43)','rgb(5, 6, 43)','rgb(5, 6, 43)']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":440,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+Hep
+</div>
+
+<div class="tp-caption tp-resizeme" id="slide-5-layer-4" data-x="['left','left','left','left']" data-hoffset="['700','700','700','700']" data-y="['top','top','top','top']" data-voffset="['280','280','280','280']" data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']" data-fontweight="['700','700','700','700']" data-color="['rgb(5, 6, 43)','rgb(5, 6, 43)','rgb(5, 6, 43)','rgb(5, 6, 43)']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":620,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+Geleceğe Doğru
+</div>
+
+<div class="tp-caption tp-resizeme" id="slide-5-layer-5" data-x="['left','left','left','left']" data-hoffset="['700','700','700','700']" data-y="['top','top','middle','middle']" data-voffset="['360','360','247','247']" data-fontsize="['17','17','14','14']" data-lineheight="['26','26','24','24']" data-fontweight="['400','400','400','400']" data-color="['rgb(46,50,54)','rgb(46,50,54)','rgb(222,222,222)','rgb(222,222,222)']" data-width="['500','500','500','400']" data-height="none" data-whitespace="normal" data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":960,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+Üniversitemizi Arayarak Sorularınıza Cevap Bulabilirsiniz. Hemen İletişime Geçin.
+</div>
+
+<a class="tp-caption tp-resizeme black-flatborder-button" href="http://www.toros.edu.tr/iletisim" target="_self" id="slide-5-layer-6" data-x="['left','left','left','left']" data-hoffset="['700','700','700','700']" data-y="['top','top','middle','middle']" data-voffset="['430','430','46','34']" data-fontsize="['13','13','12','11']" data-lineheight="['13','13','12','11']" data-fontweight="['700','700','700','700']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-actions='' data-responsive_offset="on" data-frames='[{"delay":1000,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[15,15,14,12]" data-paddingright="[35,35,30,25]" data-paddingbottom="[15,15,14,12]" data-paddingleft="[35,35,30,25]">İLETİŞİM</a>
+
+</li>
+</ul>
+</div>
+</div>
+
+<div class="site-main">
+<section class="container-fluid">
+<div class="row justify-content-center mb-5 mb-sm-0 mb-md-0 mb-lg-0 mb-xl-0">
+<a href="https://oibs.toros.edu.tr" class="card shadow p-2 m-1" style="width: 150px; background-color: ; color: ;">
+<div class="card-img-top text-center">
+<i class="fa fa-graduation-cap fa-4x"></i>
+</div>
+<div class="card-body text-center p-0 mt-4">
+<div class="card-title font-weight-bold">Öğrenci Bilgi Sistemi</div>
+</div>
+</a>
+<a href="https://hazirlik.toros.edu.tr/login.php" class="card shadow p-2 m-1" style="width: 150px; background-color: ; color: ;">
+<div class="card-img-top text-center">
+<i class="fa fa-language fa-4x"></i>
+</div>
+<div class="card-body text-center p-0 mt-4">
+<div class="card-title font-weight-bold">Hazırlık Bilgi Sistemi</div>
+</div>
+</a>
+<a href="https://lms.toros.edu.tr/Account/LoginBefore" class="card shadow p-2 m-1" style="width: 150px; background-color: #fd5d51; color: #ffffff;">
+<div class="card-img-top text-center">
+<i class="fa fa-laptop fa-4x"></i>
+</div>
+<div class="card-body text-center p-0 mt-4">
+<div class="card-title font-weight-bold">Uzaktan Eğitim Sistemi</div>
+</div>
+</a>
+<a href="https://erasmus.toros.edu.tr" class="card shadow p-2 m-1" style="width: 150px; background-color: ; color: ;">
+<div class="card-img-top text-center">
+<i class="fa fa-globe fa-4x"></i>
+</div>
+<div class="card-body text-center p-0 mt-4">
+<div class="card-title font-weight-bold">Dış İlişkiler</div>
+</div>
+</a>
+<a href="https://kys.toros.edu.tr/login.php" class="card shadow p-2 m-1" style="width: 150px; background-color: ; color: ;">
+<div class="card-img-top text-center">
+<i class="fa fa-database fa-4x"></i>
+</div>
+<div class="card-body text-center p-0 mt-4">
+<div class="card-title font-weight-bold">Kalite Yönetim Sistemi</div>
+</div>
+</a>
+<a href="https://bologna.toros.edu.tr" class="card shadow p-2 m-1" style="width: 150px; background-color: ; color: ;">
+<div class="card-img-top text-center">
+<i class="fa fa-bold fa-4x"></i>
+</div>
+<div class="card-body text-center p-0 mt-4">
+<div class="card-title font-weight-bold">Bologna Bilgi Paketi</div>
+</div>
+</a>
+<a href="http://www.toros.edu.tr/icerik/kalite-koordinatorlugu" class="card shadow p-2 m-1" style="width: 150px; background-color: ; color: ;">
+<div class="card-img-top text-center">
+<i class="fa fa-users fa-4x"></i>
+</div>
+<div class="card-body text-center p-0 mt-4">
+<div class="card-title font-weight-bold">Kalite Güvence Sistemi</div>
+</div>
+</a>
+</div>
+</section>
+
+
+
+<section class="ttm-row about3-section clearfix">
+<div class="container">
+<div class="row">
+<div class="col-lg-6">
+<div class="position-relative">
+
+<div class="ttm_single_image-wrapper ttm-991-center">
+<img class="img-fluid" src="/toros/images/single-img-six.png" title="single-img-six" alt="single-img-six">
+</div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="pl-35 res-991-pl-0 res-991-mt-30">
+
+<div class="section-title clearfix">
+<div class="title-header">
+<h5>TOROS ÜNİVERSİTESİ</h5>
+<h2 class="title">Toros Üniversitesi ve Ayrıcalıkları ile Tanışın</h2>
+</div>
+<div class="title-desc">Yarım asırlık Mersin Eğitim Vakfı’nın ve Toros Okulları’nın köklü eğitim geleneğinin yükseköğretime uzantısı olan Toros Üniversitesi, güçlü akademik kadrosu ve eğitim-öğretim programlarıyla geleceğin tasarımına katkıda bulunan, uluslararası düzeyde tanınmış bir üniversite olma yolunda hedefine hızlı adımlarla yürümektedir. Mevcut durumda 4 fakülte, 1 enstitü, 1 yüksekokul ve 1 meslek yüksekokulu bünyesinde 14 lisansüstü, 15 lisans ve 20 önlisans program ve bölüm/ana bilim dalında eğitim-öğretimini sürdürmektedir.</div>
+<div class="title-desc">Şehir merkezinde modern kampüsleri, katılımcı üniversite anlayışı, sanayi/sektör işbirliği ile en az bir yarıyıllık uygulamalı eğitim, mezunları ve paydaşları ile güçlü işbirlikleri, yüzde yüz yabancı dille eğitim gibi yenilikçi mekanizmalar Toros Üniversitesi’ni geleceğe taşıyan önemli kilometre taşlarıdır.</div>
+</div>
+<a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-skincolor mt-25 ttm_prettyphoto" href="https://www.youtube.com/watch?v=04Ngy5AziqE"><i class="fa fa-play"></i>Tanıtım Videosu</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="ttm-row our-project-section ttm-bgcolor-skincolor break-1199-colum clearfix">
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-12">
+<div class="mx-4">
+<div class="row">
+<div class="portfolio-slide owl-carousel d-flex justify-content-center align-items-center" data-item="4" data-nav="false" data-dots="false" data-auto="false">
+<div class="featured-imagebox featured-imagebox-portfolio ttm-box-view-top-image">
+<div class="ttm-box-view-content-inner">
+
+<div class="featured-thumbnail">
+<a href="https://international.toros.edu.tr">
+<img class="img-fluid image-height-300" src="/toros/images/fakulteler/international_student.jpg">
+</a>
+</div>
+</div>
+<div class="featured-content featured-content-portfolio text-center box-shadow2">
+<div class="featured-title">
+<h5>
+<a href="https://international.toros.edu.tr">International Students</a>
+</h5>
+</div>
+</div>
+</div>
+<div class="featured-imagebox featured-imagebox-portfolio ttm-box-view-top-image">
+<div class="ttm-box-view-content-inner">
+<div class="featured-thumbnail">
+<a href="https://torsem.toros.edu.tr">
+<img class="img-fluid image-height-300" src="/toros/images/fakulteler/torsem.jpg" alt="" title="">
+</a>
+</div>
+</div>
+<div class="featured-content featured-content-portfolio text-center box-shadow2">
+<div class="featured-title">
+<h5>
+<a href="https://torsem.toros.edu.tr">Sürekli Eğitim Merkezi</a>
+</h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<div class="ttm-row blog-text2-section bg-img6 ttm-bgcolor-darkgrey ttm-bg ttm-bgimage-yes clearfix">
+<div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
+<div class="container">
+<div class="row">
+<div class="col-md-12"></div>
+</div>
+</div>
+</div>
+
+
+<section class="ttm-row blog2-section mt_404 clearfix">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-md-4">
+
+<div class="section-title clearfix">
+<div class="title-header mb-20">
+<h5>Güncel Haberler</h5>
+<h2 class="title ttm-textcolor-white">Toros Üniversitesi Güncel Haber Başlıkları</h2>
+</div>
+<div class="title-desc pt-80">Toros Üniversitesi hakkında haberler ve basın bültenlerine göz
+atın. Bahçelievler Kampüs, 45 Evler Kampüs ve Güzel Sanatlar Tasarım ve Mimarlık
+Fakültesi ile ilgili haberler.
+</div>
+<a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-bgcolor-skincolor mt-20 mb-20 res-480-mt-0" href="http://www.toros.edu.tr/universite-haberleri">Tüm Haberleri Göster</a>
+</div>
+</div>
+<div class="col-md-4">
+<div class="row">
+<div class="col-md-12 col-sm-6">
+
+<div class="featured-imagebox featured-imagebox-post box-shadow mb-10">
+<div class="featured-thumbnail">
+<img class="img-fluid" src="https://pre.toros.edu.tr/dosya/437/resim/2020-12-09-Ayhan-Kiziltan-Toros-uni-Tv&#039;de.jpg" alt="">
+</div>
+<div class="featured-content featured-content-post">
+<div class="post-title featured-title">
+<h5><a href="http://www.toros.edu.tr/universite-haberleri/823">MTSO BAŞKANI AYHAN KIZILTAN TOROS ÜNİ TV’DE</a></h5>
+</div>
+<div class="post-meta">
+<span class="ttm-meta-line">
+<i class="fa fa-calendar"></i>09-12-2020
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12 col-sm-6">
+
+<div class="featured-imagebox featured-imagebox-post box-shadow mb-10">
+<div class="featured-thumbnail">
+<img class="img-fluid" src="https://pre.toros.edu.tr/dosya/437/resim/2020-12-07-genel-kurul.jpg" alt="">
+</div>
+<div class="featured-content featured-content-post">
+<div class="post-title featured-title">
+<h5><a href="http://www.toros.edu.tr/universite-haberleri/822">ÖĞRENCİ KONSEYİ BAŞKANINI SEÇİYOR</a></h5>
+</div>
+<div class="post-meta">
+<span class="ttm-meta-line">
+<i class="fa fa-calendar"></i>07-12-2020
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+
+<div class="featured-imagebox featured-imagebox-post box-shadow mb-10">
+<div class="featured-thumbnail">
+<img class="img-fluid" src="https://pre.toros.edu.tr/dosya/437/resim/2020-12-02-Akdeniz-Kent-Konseyi-baskani-haber.jpg" alt="">
+</div>
+<div class="featured-content featured-content-post">
+<div class="post-title featured-title">
+<h5><a href="http://www.toros.edu.tr/universite-haberleri/821">AKDENİZ KENT KONSEYİ BAŞKANI MUSTAFA ERİM TOROS ÜNİ TV’DE</a></h5>
+</div>
+<div class="post-meta">
+<span class="ttm-meta-line"><i class="fa fa-calendar"></i>02-12-2020</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="ttm-row about3-section clearfix">
+<div class="container">
+<div class="row">
+<div class="col-lg-5">
+<div class="pl-35 res-991-pl-0 res-991-mt-30">
+
+<div class="section-title clearfix">
+<div class="title-header">
+<h5>TOROS ÜNİVERSİTESİ</h5>
+<h2 class="title">Güncel Duyurular</h2>
+</div>
+<div class="title-desc">
+<ul class="ttm-list ttm-list-style-icon">
+<li>
+<a href="http://www.toros.edu.tr/universite-duyurulari/2530">
+<i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i>
+<span class="ttm-list-li-content">2020-2021 AKADEMİK YILI YABANCI UYRUKLU ÖĞRENCİ 7. BAŞVURU SONUÇLARI VE KAYIT İŞLEMLERİ</span><br>
+<span class="ttm-list-li-tarih"><span class="fa fa-calendar"></span> 04-12-2020
+</a>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/universite-duyurulari/2523">
+<i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i>
+<span class="ttm-list-li-content">Migros&#039;ta Kariyer Fırsatları Webinarına Katılım Sağladık</span><br>
+<span class="ttm-list-li-tarih"><span class="fa fa-calendar"></span> 25-11-2020
+</a>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/universite-duyurulari/2519">
+<i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i>
+<span class="ttm-list-li-content">TORLAD Bilgilendirme Webinarı</span><br>
+<span class="ttm-list-li-tarih"><span class="fa fa-calendar"></span> 23-11-2020
+</a>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/universite-duyurulari/2515">
+<i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i>
+<span class="ttm-list-li-content">Migros&#039;ta Kariyer Fırsatları</span><br>
+<span class="ttm-list-li-tarih"><span class="fa fa-calendar"></span> 19-11-2020
+</a>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/universite-duyurulari/2488">
+<i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i>
+<span class="ttm-list-li-content">2020-2021 AKADEMİK YILI YABANCI UYRUKLU ÖĞRENCİ 6. BAŞVURU SONUÇLARI VE KAYIT İŞLEMLERİ</span><br>
+<span class="ttm-list-li-tarih"><span class="fa fa-calendar"></span> 03-11-2020
+</a>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/universite-duyurulari/2477">
+<i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i>
+<span class="ttm-list-li-content">667 KHK Uyarınca ÖSYM Tarafından Diğer Yükseköğretim Kurumlarına Yerleştirilerek Kayıt Yaptıran Öğrencilerin 2020-2021 Eğitim-Öğretim Yılı Öğrenim Ücretlerine İlişkin Açıklama</span><br>
+<span class="ttm-list-li-tarih"><span class="fa fa-calendar"></span> 21-10-2020
+</a>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/universite-duyurulari/2471">
+<i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i>
+<span class="ttm-list-li-content">PROJE YÖNETİCİLERİNİN DİKKATİNE</span><br>
+<span class="ttm-list-li-tarih"><span class="fa fa-calendar"></span> 20-10-2020
+</a>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/universite-duyurulari/2470">
+<i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i>
+<span class="ttm-list-li-content">Turkcell Kariyerine İlk Adım!</span><br>
+<span class="ttm-list-li-tarih"><span class="fa fa-calendar"></span> 20-10-2020
+</a>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/universite-duyurulari/2457">
+<i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i>
+<span class="ttm-list-li-content">2020-2021 ORYANTASYON PROGRAMI</span><br>
+<span class="ttm-list-li-tarih"><span class="fa fa-calendar"></span> 09-10-2020
+</a>
+</li>
+<li>
+<a href="http://www.toros.edu.tr/universite-duyurulari/2452">
+<i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i>
+<span class="ttm-list-li-content">2020-2021 AKADEMİK YILI YABANCI UYRUKLU ÖĞRENCİ 5. BAŞVURU SONUÇLARI VE KAYIT İŞLEMLERİ</span><br>
+<span class="ttm-list-li-tarih"><span class="fa fa-calendar"></span> 06-10-2020
+</a>
+</li>
+</ul>
+</div>
+</div>
+<a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-bgcolor-skincolor mt-25" href="http://www.toros.edu.tr/universite-duyurulari">Tüm Duyurular</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="pl-35 res-991-pl-0 res-991-mt-30">
+
+<div class="section-title clearfix">
+<div class="title-header">
+<h5>TOROS ÜNİVERSİTESİ</h5>
+<h2 class="title">Hızlı Bağlantılar</h2>
+</div>
+<div class="title-desc">
+<ul class="ttm-list ttm-list-style-icon">
+<li><a href="http://www.toros.edu.tr/icerik/kutuphane-ve-dokumantasyon-daire-baskanligi"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Kütüphane</span></a></li>
+<li><a target="_blank" href="https://lms.toros.edu.tr/Account/LoginBefore"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Uzaktan Eğitim (LMS) Giriş</span></a></li>
+<li><a href="http://webmail.toros.edu.tr"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Toros Web Mail</span></a></li>
+<li><a href="http://ebys2.toros.edu.tr"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Toros EBYS Sistemi</span></a></li>
+<li><a href="https://mbs.toros.edu.tr"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Mezun Bilgi Sistemi (MBS)</span></a></li>
+<li><a href="http://www.toros.edu.tr/dahili-numaralar"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Dahili Numaralar</span></a></li>
+<li><a href="https://pre.toros.edu.tr/login"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Toros Web Panel</span></a></li>
+<li><a href="https://tormed.toros.edu.tr"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Mezunlar Derneği (TORMED)</span></a></li>
+<li><a href="https://torsim.toros.edu.tr"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Toros Üniversitesi Sanayi/Sektör İşbirliği Merkezi (TORSİM)</span></a></li>
+<li><a href="http://www.toros.edu.tr/icerik/torkarmer"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Kariyer Geliştirme Uygulama ve Araştırma Merkezi (TORKARMER)</span></a></li>
+<li><a href="http://torsem.toros.edu.tr"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Toros Üniversitesi Sürekli Eğitim Merkezi (TORSEM)</span></a></li>
+<li><a href="https://www.cimer.gov.tr/"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">CİMER</span></a></li>
+<li><a href="https://www.yok.gov.tr/"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Yükseköğretim Kurulu (YÖK)</span></a></li>
+<li><a href="https://yokak.gov.tr/"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Yükseköğretim Kalite Kurulu (YÖKAK)</span></a></li>
+<li><a href="http://www.toros.edu.tr/abis"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Akademik Bilgi Sistemi (ABİS)</span></a></li>
+<li><a href="http://www.toros.edu.tr/15-temmuz-etkinlikleri"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">15 Temmuz Etkinlikleri</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-3">
+<div class="pl-35 res-991-pl-0 res-991-mt-30">
+
+<div class="section-title clearfix">
+<div class="title-header">
+<h5>TOROS ÜNİVERSİTESİ</h5>
+<h2 class="title">Mevzuat</h2>
+</div>
+<div class="title-desc">
+<ul class="ttm-list ttm-list-style-icon">
+<li><a href="http://www.toros.edu.tr/icerik/toros-universitesi-yonergeler-ve-esaslar"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Yönerge ve Esaslar</span></a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-universitesi-yonetmelikler"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Yönetmelikler</span></a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-universitesi-stratejik-planlar"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Stratejik Planlar</span></a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-universitesi-kurum-ic-degerlendirme-raporlari"><i class="fa fa-arrow-circle-right ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">Kurum İçi Değerlendirme Raporları</span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="section-title clearfix">
+<div class="title-desc">
+<a href="https://pre.toros.edu.tr/assets/img/BIZBIZEYETERIZ2.jpg" class="ttm_prettyphoto" style="cursor: pointer;">
+<img src="https://pre.toros.edu.tr/assets/img/BIZBIZEYETERIZ2.jpg" class="img-fluid img-thumbnail">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="ttm-row strategy-section bg-layer bg-layer-equal-height break-1199-colum clearfix">
+<div class="container">
+
+<div class="row">
+<div class="col-lg-9 col-md-12">
+
+<div class="col-bg-img-three ttm-col-bgimage-yes ttm-bg ttm-col-bgcolor-yes ttm-left-span ttm-bgcolor-darkgrey spacing-3">
+<div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
+<div class="ttm-bg-layer-inner"></div>
+</div>
+<div class="layer-content">
+
+<div class="section-title pr-60 res-991-pr-0 clearfix">
+<div class="title-header mb-50">
+<h5>Toros Üniversitesi</h5>
+<h2 class="title">Toros Üniversitesi Olarak<br> Farkımız Nedir?</h2>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+
+<div class="featured-icon-box style9 mb-30">
+<div class="featured-icon">
+
+<div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+<i class="flaticon flaticon-marketing"></i>
+</div>
+</div>
+<div class="featured-content">
+
+<div class="featured-title">
+<h5>Danışma Kurulları</h5>
+</div>
+<div class="featured-desc">
+<p>Üniversitemize bağlı fakülte/yüksekokul/enstitü bünyesinde her bölüm/program bazında “Danışma Kurulları” oluşturulmuştur. Danışma kurullarında: akademisyenler, sanayi/sektör temsilcileri, mezunlar ve öğrenciler yer almaktadır. Danışma kurulları bölüm ve programların ders müfredatlarının oluşturulması/güncellenmesi, Ar-Ge ve toplumsal katkı konularında kararların alınmasında önemli bir görev almaktadır.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+
+<div class="featured-icon-box style9 mb-30">
+<div class="featured-icon">
+
+<div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+<i class="flaticon flaticon-viral-marketing"></i>
+</div>
+</div>
+<div class="featured-content">
+
+<div class="featured-title">
+<h5><a target="" href="http://www.toros.edu.tr/icerik/-uzaktan-egitim" style="color: #fff;">Uzaktan Eğitim Sistemi</a></h5>
+</div>
+<div class="featured-desc">
+<p>Üniversitemiz bünyesinde eğitim-öğretim yapan akademik birimlere bağlı ön lisans ve lisans programlarının müfredatlarında yer alan bazı dersler uzaktan eğitim yöntemleri ile verilmektedir. Uzaktan eğitim ile verilen dersler, öğrencilerin mezuniyeti için gerekli olan krediler ön lisans için 120 ve lisans için 240 AKTS üzerinden %40'a kadar verilmektedir.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+
+<div class="featured-icon-box style9 mb-30">
+<div class="featured-icon">
+
+<div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+<i class="flaticon flaticon-talk-1"></i>
+</div>
+</div>
+<div class="featured-content">
+
+<div class="featured-title">
+<h5>İntörn ve 3+1 Modeli (Uygulamalı Eğitim)</h5>
+</div>
+<div class="featured-desc">
+<p>Üniversitemize bağlı fakülte ve yüksekokul bünyesinde lisans eğitimi yapan öğrenciler 8 yarıyıllık eğitim-öğretimin bir yarıyılını (70 iş günü) ve Meslek Yüksekokulu bünyesinde önlisans yapan öğrenciler ise 4 yarıyıllık eğitim-öğretimin bir yarıyılını (70 iş günü) sektörde başarıyla tamamladıklarında mezun olmaktadırlar.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+
+<div class="featured-icon-box style9 mb-30">
+<div class="featured-icon">
+
+<div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+<i class="flaticon flaticon-business-and-finance-1"></i>
+</div>
+</div>
+<div class="featured-content">
+
+<div class="featured-title">
+<h5><a href="https://erasmus.toros.edu.tr/makale/erasmus-hareketlilikleri-1062" style="color: #fff;" target="_blank">Yurtdışında Eğitim Olanakları</a></h5>
+</div>
+<div class="featured-desc">
+<p>Toros Üniversitesi'nin 47 üniversite ile Erasmus İkili Anlaşmaları bulunmakta olup, bu kapsamda bir yıl süre ile öğrencilerimize yurtdışında eğitim ve staj olanağı sağlanmaktadır. Mezun öğrencilerimizin 18 ay süre ile staj olanağı mevcuttur.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-12">
+
+<div class="col-bg-img-two ttm-col-bgimage-yes ttm-bg ttm-right-span spacing-4">
+<div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
+</div>
+<div class="layer-content">
+<div class="ttm-video-btn ttm-right-center-video-btn">
+<a class="ttm-play-btn ttm_prettyphoto" href="https://www.youtube.com/watch?v=04Ngy5AziqE">
+<span class="ttm-video-btn-play"><i class="fa fa-play"></i></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="ttm-row ttm-bg ttm-bgimage-yes bg-img3 process-section clearfix">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-1"></div>
+<div class="col-md-6 col-sm-10">
+
+<div class="section-title text-center with-desc clearfix">
+<div class="title-header">
+<h5>Toros Üniversitesi</h5>
+<h2 class="title">Sayılarla Toros Üniversitesi</h2>
+</div>
+</div>
+</div>
+<div class="col-md-3 col-sm-1"></div>
+</div>
+
+<div class="row">
+<div class="col-lg-12">
+<div class="row ttm-processbox-wrapper">
+<div class="col-lg-4">
+<div class="ttm-processbox">
+<div class="featured-content m-0 pt-30">
+<img src="/toros/images/icons/Akademikbirim.png" style="width: 50px;">
+<div class="featured-title pt-3">
+<h4 style="color: #bf9f62;">7</h5>
+</div>
+<div class="ttm-box-description">Akademik Birim</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="ttm-processbox">
+<div class="featured-content m-0 pt-30">
+<img src="/toros/images/icons/OnlisansveLisans.png" style="width: 50px;">
+<div class="featured-title pt-3">
+<h4 style="color: #bf9f62;">35</h5>
+</div>
+<div class="ttm-box-description">Ön Lisans+Lisans Bölüm/Program</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="ttm-processbox">
+<div class="featured-content m-0 pt-30">
+<img src="/toros/images/icons/Lisansustu.png" style="width: 50px;">
+<div class="featured-title pt-3">
+<h4 style="color: #bf9f62;">14</h5>
+</div>
+<div class="ttm-box-description">Lisansüstü Program</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+
+<footer class="footer widget-footer clearfix">
+<div class="first-footer">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 text-center">
+<div class="first-footer-inner">
+<div class="footer-logo">
+<img id="footer-logo-img" class="img-center" src="/toros/images/toros-universitesi-logo.png" alt="">
+</div>
+<div class="row no-gutters footer-box">
+<div class="col-md-4 widget-area">
+<div class="featured-box text-center">
+<div class="featured-content">
+<div class="featured-title">
+<h5>Toros Üniversitesi <br>Bahçelievler Kampüsü</h5>
+</div>
+<div class="featured-desc">
+<p>Bahçelievler Kampüsü, 1857 Sokak, No:12, 33140 Yenişehir/Mersin, Türkiye</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 widget-area">
+<div class="featured-box text-center">
+<div class="featured-content">
+<div class="featured-title">
+ <h5>Toros Üniversitesi <br>45 Evler Kampüsü</h5>
+</div>
+<div class="featured-desc">
+<p>Bahçelievler Mahallesi, 16. Cadde, No:77, 33140 Yenişehir/Mersin,
+Türkiye</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 widget-area">
+<div class="featured-box text-center">
+<div class="featured-content">
+<div class="featured-title">
+<h5>Toros Üniversitesi<br>Uray Kampüsü</h5>
+</div>
+<div class="featured-desc">
+<p>İsmet İnönü Bulvarı, Uray Caddesi, No:10, 33060 Akdeniz/Mersin,
+Türkiye</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row no-gutters">
+<div class="col-md-3 col-sm-2"></div>
+<div class="col-md-6 col-sm-8">
+<div class="">
+</div>
+</div>
+<div class="col-md-3 col-sm-2"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="second-footer ttm-textcolor-white">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+<div class="widget widget_text clearfix">
+<h3 class="widget-title">Sosyal Medya</h3>
+<div class="textwidget widget-text">
+<div class="social-icons circle social-hover">
+<ul class="list-inline p-0 m-0">
+<li class="social-facebook p-0 m-0 mb-1"><a class="tooltip-top" target="_blank" href="https://www.facebook.com/TorosUniversity" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li class="social-instagram p-0 m-0 mb-1"><a class=" tooltip-top" target="_blank" href="https://www.instagram.com/torosuniv2009" data-tooltip="intagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+ <li class="social-youtube p-0 m-0 mb-1"><a class=" tooltip-top" target="_blank" href="https://www.youtube.com/channel/UCjbGEjnE-zoWaKJjPKF0Kqw" data-tooltip="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+<li class="social-wikipedia p-0 m-0 mb-1"><a class=" tooltip-top" target="_blank" href="https://tr.wikipedia.org/wiki/Toros_Üniversitesi" data-tooltip="Vikipedi"><img src="/toros/images/icons/wikipedia.svg" alt="toros-wikipedia" style="height: 14px;"></a></li>
+<li class="social-wikipedia p-0 m-0 mb-1"><a class=" tooltip-top" target="_blank" href="https://en.wikipedia.org/wiki/Toros_University" data-tooltip="Wikipedia"><i class="fa fa-wikipedia-w" aria-hidden="true"></i></a></li>
+<li class="social-linkedin p-0 m-0 mb-1"><a class=" tooltip-top" target="_blank" href="https://www.linkedin.com/school/toros-universitesi" data-tooltip="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+<li class="social-twitter p-0 m-0 mb-1"><a class="tooltip-top" target="_blank" href="https://twitter.com/torosuniversity" data-tooltip="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+<li class="social-whatsapp p-0 m-0 mb-1"><a class="tooltip-top" target="_blank" href="http://wa.me/905331906800" data-tooltip="Whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
+</ul>
+<small>Haftaiçi 08.00-17.30 mesai saatleri arasında WhatsApp Hattı ile iletişime geçerek tüm sorularınıza cevap bulabilirsiniz.</small>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+<div class="widget widget_nav_menu clearfix">
+<h3 class="widget-title">Toros Hakkında</h3>
+<ul id="menu-footer-services">
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-yonetim">Yönetim</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-kurucu-vakif">Kurucu Vakıf</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-mutevelli-heyeti">Mütevelli Heyeti</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/rektorluk">Rektörlük</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-misyon-vizyon-ve-temel-degerler">Misyon & Vizyon</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-toros-okullari-ve-toros-toplulugu">Temel Değerlerimiz</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-toros-okullari-ve-toros-toplulugu">Toros Okulları ve Topluluğu</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/kalite-koordinatorlugu">Kalite Koordinatörlüğü</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-kisisel-verilerin-korunmasi">Kişisel Verilerin Korunması</a></li>
+</ul>
+</div>
+<div class="widget widget_nav_menu clearfix">
+<h3 class="widget-title">Akademik</h3>
+<ul id="menu-footer-services">
+<li><a href="http://www.toros.edu.tr/fakulteler">Fakülteler</a></li>
+<li><a href="http://www.toros.edu.tr/yuksek-okullari">Yüksekokullar</a></li>
+<li><a href="http://www.toros.edu.tr/enstituler">Enstitüler</a></li>
+<li><a href="http://www.toros.edu.tr/arastirma-merkezleri">Uygulama ve Araştırma Merkezleri</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+<div class="widget widget_nav_menu clearfix">
+<h3 class="widget-title">Öğrenci</h3>
+<ul id="menu-footer-services">
+ <li><a href="http://www.toros.edu.tr/icerik/cap-yandal-programlari">Çift Ana Dal (Çap) - Yan Çap</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-ucretler">Ücretler</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-lisans-on-lisans-akademik-takvim">Lisans - Ön Lisans Akademik Takvim</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-hazirlik-okulu-akademik-takvim">Hazırlık Okulu Akademik Takvim</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-lisansustu-akademik-takvim">Lisansüstü Akademik Takvim</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-yonergeler-ve-esaslar">Yönergeler ve Esaslar</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-yonetmelikler">Yönetmelikler</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/ogrenci-topluluklari">Öğrenci Toplulukları</a></li>
+<li><a href="https://bologna.toros.edu.tr">Bologna Bilgi Paketi</a></li>
+<li><a href="http://www.toros.edu.tr/ogrenci/676-khk-ogrenciler">676 KHK Öğrenciler</a></li>
+<li><a href="https://mbs.toros.edu.tr">Mezun Bilgi Sistemi</a></li>
+</ul>
+</div>
+ <div class="widget widget_nav_menu clearfix">
+<h3 class="widget-title">Uzaktan Eğitim</h3>
+<ul id="menu-footer-services">
+<li><a href="https://lms.toros.edu.tr/Account/LoginBefore">Uzaktan Eğitim (LMS) Giriş</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/uzaktan-egitim-kilavuzlari">Uzaktan Eğitim Kılavuzları</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+<div class="widget flicker_widget clearfix">
+<h3 class="widget-title">Toros İletişim</h3>
+<div class="textwidget widget-text">
+<img src="/toros/images/map-footer.png" class="img-fluid" alt="map-footer">
+<br>
+<br>
+<ul class="ttm-our-location-list">
+<li><i class="fa fa-phone"></i><a href="tel:+903243253300" title="Bizi Arayın">+90 (324) 325 33 00</a></li>
+<li><i class="fa fa-fax"></i><a href="tel:+903243253301" title="Bizi Arayın">+90 (324) 325 33 01</a></li>
+<li><i class="fa fa-envelope-o"></i><a href="/cdn-cgi/l/email-protection#94fdfaf2fbd4e0fbe6fbe7baf1f0e1bae0e6"><span class="__cf_email__" data-cfemail="93fafdf5fcd3e7fce1fce0bdf6f7e6bde7e1">[email&#160;protected]</span></a></li>
+<li><i class="fa fa-whatsapp"></i><a href="http://wa.me/905331906800">+90 (533) 190 68 00</a></li>
+<li class="small">Haftaiçi 08.00-17.30 mesai saatleri arasında WhatsApp Hattı ile iletişime geçerek tüm sorularınıza cevap bulabilirsiniz.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bottom-footer-text ttm-textcolor-white">
+<div class="container">
+<div class="row copyright">
+<div class="col-md-12">
+<div class="">
+<span>Copyright © 2020. <a href="http://www.toros.edu.tr">Toros Üniversitesi</a> Bütün Hakları Saklıdır.</span>
+</div>
+</div>
+<div class="col-md-12">
+<ul id="menu-footer-menu" class="footer-nav-menu">
+<li><a href="/icerik/toros-hakkinda-kurucu-vakif">Toros Hakkında</a></li>
+<li><a href="http://www.toros.edu.tr/icerik/toros-hakkinda-kisisel-verilerin-korunmasi">Kişisel Verilerin Korunması</a></li>
+<li><a href="http://www.toros.edu.tr/iletisim">İletişim</a></li>
+</ul>
+</div>
+<div class="col-md-12">
+<ul id="menu-footer-menu" class="footer-nav-menu">
+<li><a href="http://www.toros.edu.tr/icerik/bilgi-islem-daire-baskanligi">Bilgi İşlem Daire Başkanlığı</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+
+<a id="totop" href="#top">
+<i class="fa fa-angle-up"></i>
+</a>
+
+</main>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/js/app.js?ver=0.0.6" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+
+<script src="/toros/js/jquery.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/js/tether.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/js/bootstrap.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/js/jquery.easing.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/js/jquery-waypoints.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/js/jquery-validate.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/js/owl.carousel.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/js/jquery.prettyPhoto.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/js/numinate.min6959.js?ver=4.9.3" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/js/main.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/js/chart.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+
+<script src="/toros/revolution/js/jquery.themepunch.tools.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/revolution/js/jquery.themepunch.revolution.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/revolution/js/slider.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+
+<script src="/toros/revolution/js/extensions/revolution.extension.actions.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/revolution/js/extensions/revolution.extension.carousel.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/revolution/js/extensions/revolution.extension.kenburn.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/revolution/js/extensions/revolution.extension.layeranimation.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/revolution/js/extensions/revolution.extension.migration.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/revolution/js/extensions/revolution.extension.navigation.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/revolution/js/extensions/revolution.extension.parallax.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/toros/revolution/js/extensions/revolution.extension.slideanims.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+
+
+<script src="/js/panel/jquery.dataTables.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/js/panel/dataTables.bootstrap4.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/js/panel/dataTables.responsive.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script src="/js/panel/responsive.bootstrap4.min.js" type="821c40f53e3875cf93f182c4-text/javascript"></script>
+<script type="821c40f53e3875cf93f182c4-text/javascript">
+    let form = document.querySelector(".search-form");
+    form.addEventListener("submit", function(e) {
+        e.preventDefault();
+        let search = form.querySelector("input[type=search]");
+        search.value = "site:toros.edu.tr " + search.value;
+        form.submit();
+    });
+
+</script>
+
+<script type="821c40f53e3875cf93f182c4-text/javascript">
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function () {
+        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/5d2ee226bfcb827ab0cc37bd/default';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+</script>
+
+<script src="/livewire/livewire.js?id=2e357e509d45977b1c0d" data-turbolinks-eval="false" type="821c40f53e3875cf93f182c4-text/javascript"></script><script data-turbolinks-eval="false" type="821c40f53e3875cf93f182c4-text/javascript">window.livewire = new Livewire();window.livewire_app_url = '';window.livewire_token = 'PndolKB8PkNfMneHQxS8KIgIe1wDNhnmnCMGBQkE';/* Make Alpine wait until Livewire is finished rendering to do its thing. */window.deferLoadingAlpine = function (callback) {window.addEventListener('livewire:load', function () {callback();});};document.addEventListener("DOMContentLoaded", function () {window.livewire.start();});var firstTime = true;document.addEventListener("turbolinks:load", function() {/* We only want this handler to run AFTER the first load. */if(firstTime) {firstTime = false;return;}window.livewire.restart();});document.addEventListener("turbolinks:before-cache", function() {document.querySelectorAll('[wire\\:id]').forEach(function(el) {const component = el.__livewire;const dataObject = {data: component.data,events: component.events,children: component.children,checksum: component.checksum,name: component.name,errorBag: component.errorBag,redirectTo: component.redirectTo,};el.setAttribute('wire:initial-data', JSON.stringify(dataObject));});});</script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="821c40f53e3875cf93f182c4-|49" defer=""></script></body>
+</html>
+

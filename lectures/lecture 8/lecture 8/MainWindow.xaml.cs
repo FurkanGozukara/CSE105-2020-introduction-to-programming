@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -25,6 +26,7 @@ namespace lecture_8
         List<RadioButton> lstRadioButtonsList;//scope level 1
         List<RadioButton> lstScoresofLetters;//scope level 1
         List<RadioButton> lstLettersOfScopes;//scope level 1
+        List<ListBoxItem> listOfListBoxItems = new List<ListBoxItem>();
 
         public MainWindow()//this is the constructor of our main window application //scope level 1
         {
@@ -36,6 +38,16 @@ namespace lecture_8
 
 
             string srTwo = "2";
+
+
+        }
+
+        private void bindItemsSource(object sender, EventArgs e)
+        {
+            if (listBox1.ItemsSource == null)
+                listBox1.ItemsSource = listOfListBoxItems;
+
+            listBox1.Items.Refresh();
         }
 
         private void btnShowSelected_Click(object sender, RoutedEventArgs e) //scope level 1
@@ -215,12 +227,52 @@ namespace lecture_8
             myCustomItem.Foreground = Brushes.Blue;
             myCustomItem.Background = Brushes.Yellow;
             myCustomItem.FontSize = 20;
-            myCustomItem.DataContext = "95,545,487,564"; 
+            myCustomItem.DataContext = "95,545,487,564";
 
             listBox1.Items.Add(myCustomItem);
 
             ListBoxItem gg = (ListBoxItem)listBox1.Items[listBox1.Items.Count - 1];
-            MessageBox.Show("square root of data of last listbox item is : " + Math.Sqrt(Convert.ToDouble(gg.DataContext.ToString().Replace(",",""))).ToString("N6"));
+            MessageBox.Show("square root of data of last listbox item is : " + Math.Sqrt(Convert.ToDouble(gg.DataContext.ToString().Replace(",", ""))).ToString("N6"));
+        }
+
+        private void btnDataSourceBinding_Click(object sender, RoutedEventArgs e)
+        {
+
+          
+
+            Random random = new Random();
+
+            //i am dynamically getting all color structs Colors class
+            var colors = typeof(Colors)
+             .GetProperties(BindingFlags.Static | BindingFlags.Public)
+             .ToDictionary(p => p.Name,
+                           p => new SolidColorBrush((Color)p.GetValue(null, null))
+                          );
+
+            List<SolidColorBrush> lstSolidcolors = new List<SolidColorBrush>();
+
+            foreach (var item in colors)
+            {
+                lstSolidcolors.Add(item.Value);
+            }
+
+            for (int i = 0; i < 1; i++)
+            {
+
+                Brush randomBrush1 = (Brush)lstSolidcolors[(random.Next(lstSolidcolors.Count))];
+                Brush randomBrush2 = (Brush)lstSolidcolors[(random.Next(lstSolidcolors.Count))];
+
+                ListBoxItem myCustomItem = new ListBoxItem();
+                myCustomItem.Foreground = randomBrush1;
+                myCustomItem.Background = randomBrush2;
+                myCustomItem.FontSize = 20;
+                myCustomItem.Content = random.Next().ToString("N0");
+                listOfListBoxItems.Add(myCustomItem);
+            }
+
+
+            bindItemsSource(null, null);
+
         }
     }
 }

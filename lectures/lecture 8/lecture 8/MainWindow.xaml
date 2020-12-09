@@ -55,6 +55,7 @@
         <ListBox x:Name="listBox1" MaxWidth="200" Margin="678,21,77,117"/>
         <Button x:Name="btnAddRandomnumbers" Content="add random numbers" HorizontalAlignment="Left" Margin="678,371,0,0" VerticalAlignment="Top" Height="38" Width="128" Click="btnAddRandomnumbers_Click"/>
         <Button x:Name="btnModify" Content="modify list box" HorizontalAlignment="Left" Margin="678,414,0,0" VerticalAlignment="Top" Height="38" Width="128"  Click="btnModify_Click"/>
+        <Button x:Name="btnDataSourceBinding" Content="data source binding example" HorizontalAlignment="Left" Margin="23,390,0,0" VerticalAlignment="Top" Height="43" Width="178" Click="btnDataSourceBinding_Click"/>
 
     </Grid>
 </Window>

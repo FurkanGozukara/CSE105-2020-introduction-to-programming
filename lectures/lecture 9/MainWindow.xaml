@@ -1,0 +1,55 @@
+﻿<Window x:Class="lecture_9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lecture_9"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl Name="menuTabs">
+            <TabItem Header="Login" Name="tabLogin">
+                <Grid Background="#FF085600">
+                    <Button Name="btnGoToRegisterTab" Content="If you don't have accout click to register first" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="313" Height="40" Background="{DynamicResource {x:Static SystemColors.MenuBrushKey}}" Click="btnGoToRegisterTab_Click"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Register" Name="tabRegister">
+                <Grid Background="#FF187699"/>
+            </TabItem>
+            <TabItem Header="Calculator" Name="tabCalculator">
+                <Grid Background="#FF3C9918"/>
+            </TabItem>
+            <TabItem Header="Random Buttons" Name="tabRandom">
+                <Grid Background="#FF181A99">
+                    <Button Name="btnFileStream" Content="file stream example" HorizontalAlignment="Left" Margin="22,24,0,0" VerticalAlignment="Top" Height="58" Width="137" Click="btnFileStream_Click"/>
+                    <Button Name="btnReadImagesAsBytes"  Content="read image as bytes" HorizontalAlignment="Left" Margin="182,24,0,0" VerticalAlignment="Top" Height="58" Width="137"/>
+                </Grid>
+            </TabItem>
+            <TabItem   >
+                <TabItem.HeaderTemplate>
+                    <DataTemplate>
+                        <Button Name="btnPrevious" Click="btnPrevious_Click" Width="32" Height="32"   >
+                     
+                            <Button.Content>
+                                <Image Source="/images/previous.png"   />
+                            </Button.Content>
+                        </Button>
+                    </DataTemplate>
+                </TabItem.HeaderTemplate>
+            </TabItem>
+            <TabItem   >
+                <TabItem.HeaderTemplate>
+                    <DataTemplate>
+                        <Button Name="btnNext" Click="btnNext_Click"  Width="32" Height="32"   >
+                            <Button.Content>
+                                <Image Source="/images/next.png"  />
+                            </Button.Content>
+                        </Button>
+                    </DataTemplate>
+                </TabItem.HeaderTemplate>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
