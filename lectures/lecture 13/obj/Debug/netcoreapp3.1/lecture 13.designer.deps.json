@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ncalc/1.3.8": {
+        "runtime": {
+          "lib/NCalc.dll": {
+            "assemblyVersion": "1.3.8.0",
+            "fileVersion": "1.3.8.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ncalc/1.3.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T3kt6mWc70x3Ex5PxOmuILy563CGAdoAnyknXX7Du2/SXs2T94hNwc5CVwZcwCu5/A2ZBZhnHnc5dpcqCRGQ0A==",
+      "path": "ncalc/1.3.8",
+      "hashPath": "ncalc.1.3.8.nupkg.sha512"
+    }
+  }
+}
