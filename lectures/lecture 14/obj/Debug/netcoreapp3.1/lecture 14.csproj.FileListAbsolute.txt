@@ -1,0 +1,19 @@
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\bin\Debug\netcoreapp3.1\lecture 14.exe
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\bin\Debug\netcoreapp3.1\lecture 14.deps.json
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\bin\Debug\netcoreapp3.1\lecture 14.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\bin\Debug\netcoreapp3.1\lecture 14.runtimeconfig.dev.json
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\bin\Debug\netcoreapp3.1\lecture 14.dll
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\bin\Debug\netcoreapp3.1\lecture 14.pdb
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\lecture 14.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\lecture 14_MarkupCompile.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\lecture 14_MarkupCompile.lref
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\lecture 14.g.resources
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\lecture 14.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\lecture 14.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\lecture 14.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\lecture 14.dll
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\lecture 14.pdb
+C:\Users\Furkan Gözükara\Desktop\2020 introduction to programming\lectures\lecture 14\obj\Debug\netcoreapp3.1\lecture 14.genruntimeconfig.cache
